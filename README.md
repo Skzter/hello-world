@@ -10,4 +10,4 @@ first try at all of this
 Studying comp sci with media will be good. [^1]
 [^1]: hopefully xD
 
-== Its gonna be great. Always remeber why u started. ==
+==Its gonna be great. Always remeber why u started.==.
